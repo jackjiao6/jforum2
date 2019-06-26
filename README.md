@@ -1,5 +1,5 @@
 # jforum2
-JForum 2.x series
+JForum 2.x series.
 
 JForum was a bulletin board software based on PHPBB which I wrote back in the 2000's. It was my first big open source project, and I worked on it for several years. There are still code from my early Java days, and you can still see the tradicional MVC implementation. 
 
